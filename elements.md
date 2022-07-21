@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: 템플릿 도구
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
