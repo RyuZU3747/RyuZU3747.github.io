@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: RyuZU가 하는것들
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: '더 자세한 자기소개나 취미 등을 써놨어요'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,58 +13,93 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>이 사람은?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>
+		아주대학교 소프트웨어학과에 재학중인 학부생이에요<br>
+		22년 7월 육군 만기 전역<br>
+		야호
+		</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>경력</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>
+				<li>
+				2019년 2월 | 수일고등학교 졸업
+				</li>
+				<li>
+				2020년 3월 | 아주대학교 소프트웨어학과 입학
+				</li>
+				<li>
+				2021년 1월 | 육군 통신병 입대 - 대구 2작사 직할 복무
+				</li>
+				<li>
+				2022년 7월 | 육군 병장 만기 전역
+				</li>
+				</p>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Program Solving</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+				고등학교때부터 조금씩 PS문제를 풀고있어요<br>
+				백준과 코드포스(아직한번도안함), 몇몇 대회도 나가요<br>
+				그렇게 잘하진 못해요ㅠㅠ
+				<li>
+				2022년 Google Code Jam 참가 | 1라운드 3561등
+				</li>
+				<li>
+				2022년 UCPC 참가 | 팀 아마존익스프레스 - 2솔ㅠㅠ
+				</li>
+				<li>
+				2022년 현대모비스 알고리즘 경진대회 참가
+				</li>
+				<li>
+				2022년 SCPC 참가
+				</li><br>
+				참가고수;;
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://solved.ac/profile/dbrua1222" class="button">솔브닥 링크</a></li>
+					<li><a href="https://codeforces.com/profile/RyuZU" class="button">코드포스 링크</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<a class="image">
+			<img src="{% link assets/images/pic10.gif %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>게임</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+				주로 리듬게임과 액션 게임을 해요...<br>
+				몬헌라이즈나 엘든링도 해요...<br>
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="http://steamcommunity.com/id/dbrua2000" class="button">RyuZU의 Steam 프로필</a></li>
 				</ul>
 			</div>
 		</div>
@@ -75,21 +110,18 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>About me</h2>
+			<h2>끝!</h2>
 		</header>
 		<p>
 		이 사람은 백수입니다...
 		<br>
 		<br>
-		대학에 재학(휴학)중이며, 22-2학기에 복학합니다!
-		<br>
-		<br>
-		<a href="https://solved.ac/profile/dbrua1222">솔브드 링크</a>
+		22-2학기에 복학할 예정입니다!
 		<br>
 		<br>
 		감사합니다.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="{{ "" | absolute_url }}/" class="button next">Main</a></li>
 		</ul>
 	</div>
 </section>
