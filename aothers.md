@@ -1,7 +1,7 @@
 ---
-layout: allposts
-title: All posts
-landing-title: 'All posts'
+layout: posts
+title: Posts
+landing-title: 'Posts'
 nav-menu: true
 description: 아무글이나 써요
 image: assets/images/pic06.jpg
