@@ -62,7 +62,7 @@ nav-menu: true
 				</header>
 				<p>
 				고등학교때부터 조금씩 PS문제를 풀고있어요<br>
-				백준과 코드포스(아직한번도안함), 몇몇 대회도 나가요<br>
+				백준과 앳코더, 코드포스(아직한번도안함), 몇몇 대회도 나가요<br>
 				그렇게 잘하진 못해요ㅠㅠ
 				<li>
 				2022년 Google Code Jam 참가 | 1라운드 3561등
@@ -75,12 +75,12 @@ nav-menu: true
 				</li>
 				<li>
 				2022년 SCPC 참가
-				</li><br>
-				참가고수;;
+				</li>
 				</p>
 				<ul class="actions">
-					<li><a href="https://solved.ac/profile/dbrua1222" class="button">솔브닥 링크</a></li>
-					<li><a href="https://codeforces.com/profile/RyuZU" class="button">코드포스 링크</a></li>
+					<li><a href="https://solved.ac/profile/dbrua1222" class="button">솔브닥 프로필</a></li>
+					<li><a href="https://atcoder.jp/users/RyuZU_" class="button">앳코더 프로필</a></li>
+					<li><a href="https://codeforces.com/profile/RyuZU" class="button">코드포스 프로필</a></li>
 				</ul>
 			</div>
 		</div>
