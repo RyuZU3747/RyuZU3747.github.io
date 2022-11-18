@@ -68,13 +68,16 @@ nav-menu: true
 				2022년 Google Code Jam 참가 | 1라운드 3561등
 				</li>
 				<li>
-				2022년 UCPC 참가 | 팀 아마존익스프레스 - 2솔ㅠㅠ
+				2022년 UCPC 참가 | 팀 아마존익스프레스 - 2솔
 				</li>
 				<li>
 				2022년 현대모비스 알고리즘 경진대회 참가
 				</li>
 				<li>
 				2022년 SCPC 참가
+				</li>
+				<li>
+				2022년 ICPC 참가 | World_Finalist_Team - 3솔
 				</li>
 				</p>
 				<ul class="actions">

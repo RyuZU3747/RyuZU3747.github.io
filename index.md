@@ -10,8 +10,9 @@ show_tile: false
 
 이 사람은 백수입니다...
 
-대학에 재학(휴학)중이며, 22-2학기에 복학합니다!
+대학에 재학중이며, 22-2학기에 복학했습니다!
 
-[솔브드 링크](https://solved.ac/profile/dbrua1222)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbrua1222)](https://solved.ac/dbrua1222)
 
 감사합니다.
