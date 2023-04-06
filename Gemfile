@@ -6,4 +6,6 @@ group :jekyll_plugins do
   gem 'jekyll-timeago', '~> 0.13.1'
 end
 
+gem "rubygems", "~> 3.3.22"
+
 gem "webrick", "~> 1.7"
