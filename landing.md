@@ -47,6 +47,9 @@ nav-menu: true
 				<li>
 				2022년 7월 | 육군 병장 만기 전역
 				</li>
+				<li>
+				2022년 12월 ~ 현재 | <a href = "http://cgl.ajou.ac.kr">AJOU Computer Graphics Lab</a> 학부생 인턴
+				</li>
 				</p>
 			</div>
 		</div>
@@ -62,7 +65,7 @@ nav-menu: true
 				</header>
 				<p>
 				고등학교때부터 조금씩 PS문제를 풀고있어요<br>
-				백준과 앳코더, 코드포스(아직한번도안함), 몇몇 대회도 나가요<br>
+				백준과 앳코더, 코드포스, 몇몇 대회도 나가요<br>
 				그렇게 잘하진 못해요ㅠㅠ
 				<li>
 				2022년 Google Code Jam 참가 | 1라운드 3561등
@@ -116,10 +119,7 @@ nav-menu: true
 			<h2>끝!</h2>
 		</header>
 		<p>
-		이 사람은 백수입니다...
-		<br>
-		<br>
-		22-2학기에 복학할 예정입니다!
+		언제나 재미있는 걸 하고 살고 싶습니다.
 		<br>
 		<br>
 		감사합니다.</p>
