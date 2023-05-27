@@ -82,6 +82,9 @@ nav-menu: true
 				<li>
 				2022년 ICPC 참가 | World_Finalist_Team - 3솔
 				</li>
+				<li>
+				2023년 Ajou Programming Contest(APC) 7th place - 장려상
+				</li>
 				</p>
 				<ul class="actions">
 					<li><a href="https://solved.ac/profile/dbrua1222" class="button">솔브닥 프로필</a></li>
@@ -119,7 +122,7 @@ nav-menu: true
 			<h2>끝!</h2>
 		</header>
 		<p>
-		언제나 재미있는 걸 하고 살고 싶습니다.
+		언제나 재미있는 걸 하며 살고 싶습니다.
 		<br>
 		<br>
 		감사합니다.</p>
