@@ -68,22 +68,25 @@ nav-menu: true
 				백준과 앳코더, 코드포스, 몇몇 대회도 나가요<br>
 				그렇게 잘하진 못해요ㅠㅠ
 				<li>
-				2022년 Google Code Jam 참가 | 1라운드 3561등
+				2022 Google Code Jam | Round 1, 3561st place
 				</li>
 				<li>
-				2022년 UCPC 참가 | 팀 아마존익스프레스 - 2솔
+				2022 UCPC qualifying round | Team 아마존익스프레스 - 2 Solve
 				</li>
 				<li>
-				2022년 현대모비스 알고리즘 경진대회 참가
+				2022 현대모비스 알고리즘 경진대회 qualifying round
 				</li>
 				<li>
-				2022년 SCPC 참가
+				2022 SCPC qualifying round
 				</li>
 				<li>
-				2022년 ICPC 참가 | World_Finalist_Team - 3솔
+				2022 ICPC qualifying round | World_Finalist_Team - 3 Solve
 				</li>
 				<li>
-				2023년 Ajou Programming Contest(APC) 7th place - 장려상
+				2023 Ajou Programming Contest(APC) 7th place - participation prize
+				</li>
+				<li>
+				2023 UCPC qualifying round | KIM_JANG_KIMCHI - 6 Solve / 63rd place
 				</li>
 				</p>
 				<ul class="actions">
