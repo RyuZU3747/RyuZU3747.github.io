@@ -18,7 +18,9 @@ show_tile: false
 </div>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbrua1222)](https://solved.ac/dbrua1222)    
-
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/RyuZU.svg)](https://codeforces.com/profile/RyuZU) &nbsp;&nbsp;&nbsp;&nbsp; [![AtCoder](https://badges.joonhyung.xyz/atcoder/RyuZU_.svg)](https://atcoder.jp/users/RyuZU_)  
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbrua1222)](https://solved.ac/dbrua1222)&nbsp;&nbsp;&nbsp;&nbsp;[![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=dbrua1222)](https://solved.ac/profile/dbrua1222/arena)<br>
+[![AtCoder](https://atcoder.junah.dev/v1/generate_badge?name=RyuZU_)](https://atcoder.jp/users/ryuzu_)
+<br>
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/RyuZU.svg)](https://codeforces.com/profile/RyuZU)
+<br>
 감사합니다.

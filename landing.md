@@ -1,5 +1,5 @@
 ---
-title: RyuZU가 하는것들
+title: 제가 하는것들
 layout: landing
 description: '더 자세한 자기소개나 취미 등을 써놨어요'
 image: assets/images/pic07.jpg
@@ -51,6 +51,17 @@ nav-menu: true
 				2022년 12월 ~ 현재 | <a href = "http://cgl.ajou.ac.kr">AJOU Computer Graphics Lab</a> 학부생 인턴
 				</li>
 				</p>
+				<header class="major">
+					<h3>기타</h3>
+				</header>
+				<p>
+				<li>
+				Current Semester 5/8 | GPA - 3.99/4.5, No Retake & Withdrawal
+				</li>
+				<li>
+				Received Scholarships for academic achievements - ₩5.3M, 3 times
+				</li>
+				</p>
 			</div>
 		</div>
 	</section>
@@ -71,22 +82,22 @@ nav-menu: true
 				2022 Google Code Jam | Round 1, 3561st place
 				</li>
 				<li>
-				2022 UCPC qualifying round | Team 아마존익스프레스 - 2 Solve
+				2022 UCPC Qualifying round | Team 아마존익스프레스 - 2 Solve
 				</li>
 				<li>
-				2022 현대모비스 알고리즘 경진대회 qualifying round
+				2022 현대모비스 알고리즘 경진대회 Qualifying round
 				</li>
 				<li>
-				2022 SCPC qualifying round
+				2022 SCPC Qualifying round
 				</li>
 				<li>
-				2022 ICPC qualifying round | World_Finalist_Team - 3 Solve
+				2022 ICPC Qualifying round | Team World_Finalist_Team - 3 Solve
 				</li>
 				<li>
 				2023 Ajou Programming Contest(APC) 7th place - participation prize
 				</li>
 				<li>
-				2023 UCPC qualifying round | KIM_JANG_KIMCHI - 6 Solve / 63rd place
+				2023 UCPC Qualifying round | Team KIM_JANG_KIMCHI - 6 Solve / 63rd place
 				</li>
 				</p>
 				<ul class="actions">
@@ -97,7 +108,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a class="image">
 			<img src="{% link assets/images/pic10.gif %}" alt="" data-position="25% 25%" />
 		</a>
@@ -108,14 +119,13 @@ nav-menu: true
 				</header>
 				<p>
 				주로 리듬게임과 액션 게임을 해요...<br>
-				몬헌라이즈나 엘든링도 해요...<br>
 				</p>
 				<ul class="actions">
 					<li><a href="http://steamcommunity.com/id/dbrua2000" class="button">RyuZU의 Steam 프로필</a></li>
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
 <!-- Three -->

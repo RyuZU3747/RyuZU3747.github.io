@@ -2,7 +2,7 @@
 title: RyuZU
 subtitle: 
 email: dbrua1222@naver.com
-description: '여러가지 공부하고 있어요...<br>야호'
+description: '김유겸 a.k.a RyuZU의 홈페이지'
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -11,7 +11,7 @@ city: Suwon
 state: 
 zip_code: 
 country: South Korea
-phone: RyuZU#3642
+phone: RyuZU#3642 / ryu_zu
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
