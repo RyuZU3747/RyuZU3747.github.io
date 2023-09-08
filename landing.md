@@ -61,6 +61,9 @@ nav-menu: true
 				<li>
 				Received Scholarships for academic achievements - ₩5.3M, 3 times
 				</li>
+				<li>
+				Japanese Language Proficiency Test(JLPT) N1, 161/180
+				</li>
 				</p>
 			</div>
 		</div>
@@ -82,22 +85,25 @@ nav-menu: true
 				2022 Google Code Jam | Round 1, 3561st place
 				</li>
 				<li>
-				2022 UCPC Qualifying round | Team 아마존익스프레스 - 2 Solve
+				2022 UCPC Qualifying round | 아마존익스프레스 - 2 Solve
 				</li>
 				<li>
 				2022 현대모비스 알고리즘 경진대회 Qualifying round
 				</li>
 				<li>
-				2022 SCPC Qualifying round
+				2022 SCPC Round 1
 				</li>
 				<li>
-				2022 ICPC Qualifying round | Team World_Finalist_Team - 3 Solve
+				2022 ICPC Qualifying round | World_Finalist_Team - 3 Solve
 				</li>
 				<li>
 				2023 Ajou Programming Contest(APC) 7th place - participation prize
 				</li>
 				<li>
-				2023 UCPC Qualifying round | Team KIM_JANG_KIMCHI - 6 Solve / 63rd place
+				2023 UCPC Qualifying round | KIM_JANG_KIMCHI - 6 Solve / 63rd place
+				</li>
+				<li>
+				2023 SCPC Round 2
 				</li>
 				</p>
 				<ul class="actions">
