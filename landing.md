@@ -78,9 +78,8 @@ nav-menu: true
 					<h3>Program Solving</h3>
 				</header>
 				<p>
-				고등학교때부터 조금씩 PS문제를 풀고있어요<br>
+				취미로 PS를 하고 있어요<br>
 				백준과 앳코더, 코드포스, 몇몇 대회도 나가요<br>
-				그렇게 잘하진 못해요ㅠㅠ
 				<li>
 				2022 Google Code Jam | Round 1, 3561st place
 				</li>
@@ -115,9 +114,6 @@ nav-menu: true
 		</div>
 	</section>
 	<!-- <section>
-		<a class="image">
-			<img src="{% link assets/images/pic10.gif %}" alt="" data-position="25% 25%" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
