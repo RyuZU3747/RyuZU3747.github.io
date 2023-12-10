@@ -105,7 +105,7 @@ nav-menu: true
 				2023 SCPC Round 2
 				</li>
 				<li>
-				2023 ICPC Asia Seoul Regional | Kimchi_Fridge - 33rd place
+				2023 ICPC Asia Seoul Regional | Kimchi_Fridge - 34th place
 				</li>
 				</p>
 				<ul class="actions">
