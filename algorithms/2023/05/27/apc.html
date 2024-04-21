@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<!--
+    Forty by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  -->
+<html>
+
+  <head>
+	<title>2023 APC Div.1 | RyuZU</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!-- Latex -->
+	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+	<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="/assets/css/main.css" />
+	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+</head>
+
+
+  <body>
+
+    <!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header">
+	<a href="/" class="logo"><strong>RyuZU</strong> <span></span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+        
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="/">Home</a></li>
+	    	
+		
+		    
+		
+		    
+		
+		
+		    
+		
+		    
+		        <li><a href="/algorithm.html">Algorithm</a></li>
+		    
+		
+		    
+		        <li><a href="/aothers.html">Posts</a></li>
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="/landing.html">제가 하는것들</a></li>
+		    
+		
+	</ul>
+	<ul class="actions vertical">
+		<li><a href="#" class="button special fit">Get Started</a></li>
+	</ul>
+</nav>
+ 
+    
+    
+    <!-- Main -->
+    <div id="main" class="alt">
+
+      <!-- One -->
+      <section id="one">
+	<div class="inner">
+          
+	  
+	  <header class="major">
+	    <h1>2023 SCPC 예선</h1>
+	  </header>
+	  
+	  <p>2023-08-03 11:11:06 +0000</p>
+	  <p>2023 SCPC 예선을 쳤다.<br>
+1번은 간단한 문제라 바로 맞췄고, 2번은 고민 좀 하다가 왼쪽->오른쪽과 오른쪽->왼쪽을 나눠서 세주었다.<br>
+그다음에 4번을 잡았다. kmp를 써서 어떻게 하면 될 줄 알았는데, 어림도 없었고 제출 10번을 다 쓰고 만다.<br>
+그냥 3번을 잡았고, 1000이하일땐 시뮬레이션을 돌려서 직접 답을 구하고(40점), 그 이상이면 해싱을 통해 겹치는 부분을 구하여(100점) 부분점수를 긁었다.
+
+총점 300점으로, 작년의 100점에 비하면 엄청난 발전이다.<br>
+일반적으로 이 점수면 1차예선은 그냥 통과인데 어째서인지 만점도 떨어지더라... 오류인가보다.</p>
+	  
+          
+	  
+	  <header class="major">
+	    <h1>2023 APC Div.1</h1>
+	  </header>
+	  
+	  <p>2023-05-27 14:04:54 +0000</p>
+	  <p><p>오늘 APC출전해서 문제를 풀면서, 떠올렸거나 그렇지 못한 아이디어를 적는다.</p>
+
+<p>먼저 Div.1 기준 D(오픈 F)
+정말 재밌게(시간은 엄청 썼다) 푼 문제다.
+난 직접 격자 사이즈를 늘려가면서 몇 개가 있어야 할 지 생각했는데, \(\left \lceil \frac{a*b+1}{2} \right \rceil\)를 보고 깨달었어야 했다… 절반 이상의 이름을 배치하려면 반드시 연결되는 경우가 생긴다. 짝수의 경우와 홀수의 경우를 나눠 규칙을 찾으면 된다.<br />
+1x2나 2x1의 규칙은 정말 빠르게 찾아냈는데 1x3, 3x1의 경우를 생각하는 데 시간을 잡아먹었다. 재밌는 아이디어 문제였다.</p>
+
+<p>그리고 Div.1 기준 E(오픈 G)
+2차원 DP인걸 알아냈고, [문제 인덱스][난이도 범위]로 두고 \(N^2K\)짜리 DP를 짰다.<br />
+엥? 왜 시간초과지? -&gt; FASTIO, GCC Optimal, MOD연산 횟수 줄이기로 미친듯이 커팅했다.
+97%까지 쭉 올라가다가 시간초과… 결국 못풀었고, 나중에 들어보니 \(N^2K\)가 뚫리는게 의도된 풀이가 아니여서 마지막에 \(N^2K\)를 막는 테스트케이스를 추가했다더라… DP가 또 날 미치게하는구나</p>
+
+<p>그 외에도 다익스트라 후 DP, 트리DP 등 많은 DP문제가 있었고 더 많은 DP공부를 해야겠다고 생각했다. 끝.</p>
+</p>
+	  
+          
+	  
+	  <header class="major">
+	    <h1>알고리즘 첫글</h1>
+	  </header>
+	  
+	  <p>2022-08-06 10:10:39 +0000</p>
+	  <p><p>나는 그렇게 많이 아는것도 없지만, 혼자 공부한 내용을 적는 용도로 이 게시판을 팠다.<br />
+솔직히 글 그렇게 많이 안 쓸것 같다…</p>
+</p>
+	  
+          
+	</div>
+      </section>
+
+    </div>
+
+    <!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+			<form action="https://formspree.io/f/mdobqdyj" method="POST">
+				<div class="field half first">
+					<label for="name">Name</label>
+					<input type="text" name="name" id="name" />
+				</div>
+				<div class="field half">
+					<label for="email">Email</label>
+					<input type="text" name="_replyto" id="email" />
+				</div>
+				<div class="field">
+					<label for="message">Message</label>
+					<textarea name="message" id="message" rows="6"></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Clear" /></li>
+				</ul>
+			</form>
+		</section>
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="mailto:yukyeom@ryuzu.me">yukyeom@ryuzu.me</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Discord</h3>
+					<a>RyuZU#3642 / ryu_zu</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Address</h3>
+					<span>
+					
+					
+					    Suwon,
+					
+					
+					
+					
+					    South Korea
+					
+					</span>
+				</div>
+			</section>
+		</section>
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				
+					
+						<li>
+							<a href="https://github.com/ryuzu3747" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+								<span class="label">GitHub</span>
+							</a>
+						</li>
+					
+				
+					
+				
+					
+				
+					
+						<li>
+							<a href="https://www.instagram.com/yyyyu_kyeom" class="icon alt fa-instagram" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+								<span class="label">Instagram</span>
+							</a>
+						</li>
+					
+				
+					
+				
+					
+						<li>
+							<a href="https://twitter.com/kawaii_ryuzu" class="icon alt fa-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+								<span class="label">Twitter</span>
+							</a>
+						</li>
+					
+				
+					
+				
+					
+				
+			</ul>
+			<ul class="copyright">
+				<li>&copy; RyuZU </li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+
+			</ul>
+		</div>
+	</footer>
+
+</div>
+
+<!-- Scripts -->
+	<script src="/assets/js/jquery.min.js"></script>
+	<script src="/assets/js/jquery.scrolly.min.js"></script>
+	<script src="/assets/js/jquery.scrollex.min.js"></script>
+	<script src="/assets/js/skel.min.js"></script>
+	<script src="/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="/assets/js/main.js"></script>
+
+
+  </body>
+
+</html>
