@@ -50,16 +50,19 @@ nav-menu: true
 				<li>
 				2022년 12월 ~ 현재 | <a href = "http://cgl.ajou.ac.kr">AJOU Computer Graphics Lab</a> 학부생 인턴
 				</li>
+				<li>
+				2024년 ~ | <a href = "http://ansi.ajou.club">아주대학교 알고리즘 소학회 A.N.S.I.</a> 회장
+				</li>
 				</p>
 				<header class="major">
 					<h3>기타</h3>
 				</header>
 				<p>
 				<li>
-				Current Semester 5/8 | GPA - 3.99/4.5, No Retake & Withdrawal
+				Current Semester 6/8 | GPA - 3.96/4.5, No Retake & Withdrawal
 				</li>
 				<li>
-				Received Scholarships for academic achievements - ₩5.3M, 3 times
+				Received Scholarships for academic achievements - ₩7.1M, 4 times
 				</li>
 				<li>
 				Japanese Language Proficiency Test(JLPT) N1, 161/180
@@ -103,6 +106,15 @@ nav-menu: true
 				</li>
 				<li>
 				2023 SCPC Round 2
+				</li>
+				<li>
+				2023 ICPC Seoul Regional | Kimchi_Fridge - 34th place
+				</li>
+				<li>
+				Hello, BOJ 2024! at LG Science Park
+				</li>
+				<li>
+				solved.ac Grand Arena Party Sponsored by NEXON Korea
 				</li>
 				</p>
 				<ul class="actions">
