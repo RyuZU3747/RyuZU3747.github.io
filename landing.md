@@ -32,7 +32,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>경력</h3>
+					<h3>약력</h3>
 				</header>
 				<p>
 				<li>
@@ -51,7 +51,7 @@ nav-menu: true
 				2022년 12월 ~ 현재 | <a href = "http://cgl.ajou.ac.kr">AJOU Computer Graphics Lab</a> 학부생 인턴
 				</li>
 				<li>
-				2024년 ~ | <a href = "http://ansi.ajou.club">아주대학교 알고리즘 소학회 A.N.S.I.</a> 회장
+				2024년 ~ 현재 | <a href = "http://ansi.ajou.club">아주대학교 알고리즘 소학회 A.N.S.I.</a> 회장
 				</li>
 				</p>
 				<header class="major">
@@ -59,7 +59,7 @@ nav-menu: true
 				</header>
 				<p>
 				<li>
-				Current Semester 6/8 | GPA - 3.96/4.5, No Retake & Withdrawal
+				Current Semester 7/8 | GPA - 4.0/4.5, No Retake & Withdrawal
 				</li>
 				<li>
 				Received Scholarships for academic achievements - ₩7.1M, 4 times
