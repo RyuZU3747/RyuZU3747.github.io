@@ -59,10 +59,10 @@ nav-menu: true
 				</header>
 				<p>
 				<li>
-				Current Semester 6/8 | GPA - 3.96/4.5, No Retake & Withdrawal
+				Current Semester 7/8 | GPA - 4.0/4.5, No Retake & Withdrawal
 				</li>
 				<li>
-				Received Scholarships for academic achievements - ₩7.1M, 4 times
+				Received Scholarships for academic achievements - ₩8.9M, 5 times
 				</li>
 				<li>
 				Japanese Language Proficiency Test(JLPT) N1, 161/180
