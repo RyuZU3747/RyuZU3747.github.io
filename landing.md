@@ -47,10 +47,13 @@ nav-menu: true
 				2022년 7월 | 육군 병장 만기 전역
 				</li>
 				<li>
-				2022년 12월 ~ 현재 | <a href = "http://cgl.ajou.ac.kr">AJOU Computer Graphics Lab</a> 학부생 인턴
+				2022년 12월 ~ 2024년 12월 | <a href = "http://cgl.ajou.ac.kr">AJOU Computer Graphics Lab</a> 학부생 인턴
 				</li>
 				<li>
-				2024년 ~ 현재 | <a href = "http://ansi.ajou.club">아주대학교 알고리즘 소학회 A.N.S.I.</a> 회장
+				2024년 | <a href = "http://ansi.ajou.club">아주대학교 알고리즘 소학회 A.N.S.I.</a> 회장
+				</li>
+				<li>
+				2025년 1월, 2월 | 주식회사 뉴로센스 인턴십
 				</li>
 				</p>
 				<header class="major">
@@ -58,13 +61,16 @@ nav-menu: true
 				</header>
 				<p>
 				<li>
-				Current Semester 7/8 | GPA - 4.0/4.5, No Retake & Withdrawal
+				Current Semester 7/8 | GPA - 3.92/4.5, No Retake & Withdrawal
 				</li>
 				<li>
 				Received Scholarships for academic achievements - ₩8.9M, 5 times
 				</li>
 				<li>
 				Japanese Language Proficiency Test(JLPT) N1, 161/180
+				</li>
+				<li>
+				Software Maestro 16기 연수생
 				</li>
 				</p>
 			</div>
